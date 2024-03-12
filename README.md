@@ -42,7 +42,7 @@ Setting up ml5.js locally was also challenging initially since all the available
 
 * Improve training data
 * Add more features for example picture uploading instead of webcam capturing
-* Develop a web app so users can take better quality pictures and get better results from the ML model
+* Develop a mobile app so users can take better quality pictures and get better results from the ML model
 
 ## Usage Instructions
 

@@ -10,9 +10,9 @@ This application can be used by people who are new to waste management or are st
 
 ![one](images/one.png)
 
-![three](images/three.png)
+![three](images/three.jpeg)
 
-![four](images/four.png)
+![four](images/four.jpeg)
 
 ## Data Collection
 
@@ -26,7 +26,7 @@ The following datasets were used and slightly modified for training this web app
 
 For training the machine learning model, Google's Teachable Machine was used. The Teachable Machine uses [MobileNet](https://arxiv.org/abs/1704.04861) in the background. MobileNet is a type of convolutional neural network designed for mobile and embedded vision applications. When we train a model via the Teachable Machine, it is using a principle called [Transfer Learning](https://datascientest.com/en/transfer-learning-what-is-it). Transfer Learning is the ability to use knowledge that has already been learned to help learn a different but similar thing. Due to this, we are able to train a good model with a decent accuracy.
 
-![two](images/.png)
+![two](images/two.png)
 
 ## Tech Stack
 

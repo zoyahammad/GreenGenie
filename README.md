@@ -54,3 +54,7 @@ Setting up ml5.js locally was also challenging initially since all the available
 ## Deployment
 
 Deployed via Netlify here: https://greengenie.netlify.app
+
+Presentation: https://docs.google.com/presentation/d/12Jq-p80ND3jLwCCRap1_BIDmCzQViAQAPzBy5GRGHhs/edit?usp=sharing
+
+Youtube: https://youtu.be/yqfJLYg-FHY
